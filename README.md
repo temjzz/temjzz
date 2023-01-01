@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mehmet Temiz a.k.a temjzz
 - 👀 I’m interested in frontend developing.
 - 🌱 I’m currently learning HTML5-CSS.
-- 📫 mailto:temjzz@outlook.com and [twitter](https://twitter.com/temjzz) ...
+- 📫 [Mail](temjzz@outlook.com) and [Twitter](https://twitter.com/temjzz) ...
 
 <!---
 temjzz/temjzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
