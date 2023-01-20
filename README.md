@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehmet Temiz a.k.a temjzz
 - ✨ I’m interested in frontend developing.
-- 🌱 I’m currently learning HTML5-CSS.
+- 🌱 I’m currently learning HTML5-CSS and Bootsrap.
 - 📫 [Linkedin](https://www.linkedin.com/feed/) or [Twitter](https://twitter.com/temjzz).
 
 <!---
